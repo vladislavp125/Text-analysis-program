@@ -1,9 +1,7 @@
 from collections import Counter
-
 import nltk
 from nltk.corpus import stopwords
-
-#nltk.download('all')
+import string
 
 
 
